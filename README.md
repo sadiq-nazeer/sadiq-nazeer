@@ -3,11 +3,6 @@
 <h1 align="center">Hi 👋, I'm Sadiq Naseer</h1>
 <p align="center">I am a dedicated and passionate Software Engineering undergraduate at Kingston University London, specializing in Software Engineering with an expected completion date in September 2024. With a profound interest in technology and coding, I consistently strive to stay abreast of the latest industry trends and advancements. 
 I excel in collaborative environments, valuing effective communication and teamwork. My ability to quickly grasp new concepts allows me to thrive in challenging situations, making me an asset in innovative projects. I am eager to leverage my skills and knowledge to contribute to impactful and forward-thinking initiatives in the tech industry. 🛠️</p>
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=MoSadiq99 &label=Profile%20views&color=0e75b6&style=flat" alt="Dishan Kavinda" /> 
-<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
-<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97">
-</p>
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
