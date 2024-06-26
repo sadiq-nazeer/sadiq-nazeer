@@ -28,9 +28,7 @@ I excel in collaborative environments, valuing effective communication and teamw
 <br><br>
 
 
-👋 Hi, I’m Sadiq – your go-to tech enthusiast buddy!
-
-👀 Passionate about all things Tech and Computer Science – I can’t get enough of those ones and zeros!
+👀 I'm Passionate about all things Tech and Computer Science – I can’t get enough of those ones and zeros!
 
 🎓 I’m an undergraduate student at Kingston University London, diving deep into Computer Science with a focus on Software Engineering.
 
