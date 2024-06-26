@@ -1,8 +1,8 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Sadiq Naseer</h1>
-<p align="center">I am a dedicated and passionate Software Engineering undergraduate at Kingston University London, specializing in Software Engineering with an expected completion date in September 2025. With a profound interest in technology and coding, I consistently strive to stay abreast of the latest industry trends and advancements. 
-I excel in collaborative environments, valuing effective communication and teamwork. My ability to quickly grasp new concepts allows me to thrive in challenging situations, making me an asset in innovative projects. I am eager to leverage my skills and knowledge to contribute to impactful and forward-thinking initiatives in the tech industry. 🛠️</p>
+<p align="center">I am a dedicated and passionate Software Engineering undergraduate at Kingston University London, specializing in Software Engineering with an expected completion date in September 2025. With a profound interest in technology and coding, I consistently strive to stay abreast of the latest industry trends and advancements. <br> 
+I excel in collaborative environments, valuing effective communication and teamwork. My ability to quickly grasp new concepts allows me to thrive in challenging situations, making me an asset in innovative projects. <br>  I am eager to leverage my skills and knowledge to contribute to impactful and forward-thinking initiatives in the tech industry. 🛠️</p>
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
