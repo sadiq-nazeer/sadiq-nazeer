@@ -128,5 +128,3 @@ Ready to add my expertise to cutting-edge initiatives and make tech magic happen
 
 <br>
 <p align="right" > Created with 🧡 by <a>Sadiq Naseer</a></p>
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
