@@ -49,6 +49,8 @@ Ready to add my expertise to cutting-edge initiatives and make tech magic happen
 
 <br>
 <h3 align="left">Connect with me:</h3>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="sadiqnaseer99" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lk.linkedin.com/in/sadiqnaseer99?trk=profile-badge">Sadiq N.</a></div>
+              
 <p align="left">
 <a href="www.linkedin.com/in/sadiqnaseer1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 </p>   www.linkedin.com/in/sadiqnaseer1999
