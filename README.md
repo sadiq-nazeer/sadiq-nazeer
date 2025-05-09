@@ -40,7 +40,7 @@ I excel in collaborative environments, valuing effective communication and teamw
 
 🤝 Teamwork makes the dream work! I thrive in collaborative settings and value clear, effective communication with colleagues.
 
-📫 You can reach me at mail2sdq99@gmail.com – carrier pigeons and smoke signals also accepted for extra points!
+📫 You can reach me at sadiq.nazeer@proton.me – carrier pigeons and smoke signals also accepted for extra points!
 
 ⚡ Fun fact: I can code in Java while juggling – okay, maybe not yet, but I'm working on it!
 
