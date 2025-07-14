@@ -53,7 +53,7 @@ Ready to add my expertise to cutting-edge initiatives and make tech magic happen
 <p align="left">
 <a href="www.linkedin.com/in/sadiq-nazeer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 </p>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="sadiqnaseer99" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lk.linkedin.com/in/sadiqnaseer99?trk=profile-badge">Sadiq N.</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="sadiq-nazeer" data-version="v1"><a class="badge-base__link LI-simple-link" href="www.linkedin.com/in/sadiq-nazeer?trk=profile-badge">Sadiq N.</a></div>
             
 <br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
