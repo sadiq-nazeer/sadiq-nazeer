@@ -51,12 +51,11 @@ Ready to add my expertise to cutting-edge initiatives and make tech magic happen
 <h3 align="left">Connect with me:</h3>
 <br>
 <p align="left">
-<a href="www.linkedin.com/in/sadiqnaseer1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/sadiq-nazeer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 </p>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="sadiqnaseer99" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lk.linkedin.com/in/sadiqnaseer99?trk=profile-badge">Sadiq N.</a></div>
             
 <br>
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Languages and Tools:</h3>
@@ -105,7 +104,7 @@ Ready to add my expertise to cutting-edge initiatives and make tech magic happen
 <p align="center">
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MoSadiq99" alt="MoSadiq99" /></a> </p
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadiq-nazeer" alt="sadiq-nazeer" /></a> </p
  <br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -113,7 +112,7 @@ Ready to add my expertise to cutting-edge initiatives and make tech magic happen
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
  
-![Dishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoSadiq99\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+![Dishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadiq-nazeer\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
 <br><br>
 
@@ -121,10 +120,10 @@ Ready to add my expertise to cutting-edge initiatives and make tech magic happen
 
 <h3 align="left">Activity:</h3>
 
-![Sadiq's Graph](https://github-readme-activity-graph.vercel.app/graph?username=MoSadiq99&custom_title=MoSadiq99's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Sadiq's Graph](https://github-readme-activity-graph.vercel.app/graph?username=sadiq-nazeer&custom_title=sadiq-nazeer's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <br>
-<p align="right" > Created with 🧡 by <a>Sadiq Naseer</a></p>
+<p align="right" > Created with 🧡 by <a>Sadiq Nazeer</a></p>
